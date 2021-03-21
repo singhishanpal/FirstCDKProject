@@ -7,5 +7,12 @@ from my_first_cdk_project.my_first_cdk_project_stack import MyFirstCdkProjectSta
 
 app = core.App()
 MyFirstCdkProjectStack(app, "my-first-cdk-project")
+MyFirstCdkProjectStack(app, "my-first-cdk-project1")
+MyFirstCdkProjectStack(app, "my-first-cdk-project2")
+print("Working in the develop brannch")
+
+
+
+
 
 app.synth()
