@@ -11,7 +11,7 @@ MyFirstCdkProjectStack(app, "my-first-cdk-project1")
 MyFirstCdkProjectStack(app, "my-first-cdk-project2")
 MyFirstCdkProjectStack(app, "my-first-cdk-project3")
 MyFirstCdkProjectStack(app, "my-first-cdk-project4")
-MyFirstCdkProjectStack(app, "my-first-cdk-project5")
+
 print("Working in the develop brannch")
 
 
